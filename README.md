@@ -43,6 +43,7 @@
 > Nona Memo
 * Chrome Extension
 * Spring Boot
+* Mongo DB
 * (maybe) messaging queue .... Kafka...?
 
 
