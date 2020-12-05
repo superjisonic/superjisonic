@@ -37,7 +37,7 @@
 > AlgorithmStudy ✨ 
 * Studying and solving algorithm problems are always challenging ✨
 * started to commit algorithm solution with my friends since early 2019
-* stopped to work on it because everyone in the study group got a job (or got busy)
+* stopped working on it because everyone in the study group got a job (or got busy)
 * but I started to upload solutions again recently ( 2020.09 ~ )
 
 > Nona Memo
